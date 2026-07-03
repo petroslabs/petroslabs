@@ -2,7 +2,7 @@
   <img src="logo_compressed.png" alt="PetrosLab" width="200" />
 </p>
 
-Hi, I'm the developer behind **PetrosLab** — my personal lab where I experiment, build, and ship.
+Hi, I'm the developer behind **PetrosLabs** — my personal lab where I experiment, build, and ship.
 
 By day I work as a backend developer, mostly with **Symfony, PHP and Doctrine**, on professional applications in the insurance domain. On the side, I build SaaS products and tools, always chasing clean architecture and pragmatic solutions.
 
@@ -14,4 +14,4 @@ Outside of code, you'll find me in the garage doing my own motorcycle and car me
 
 ---
 
-⚡ The lab is busy. Multiple projects in the works, more shipping soon. Follow along — you don't want to miss what's coming out of PetrosLab.
+⚡ The lab is busy. Multiple projects in the works, more shipping soon. Follow along — you don't want to miss what's coming out of PetrosLabs.
