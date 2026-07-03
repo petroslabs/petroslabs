@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm the developer behind **PetrosLab** — my personal lab where I experiment, build, and ship.
 
-<!--
-**petroslabs/petroslabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By day I work as a backend developer, mostly with **Symfony, PHP and Doctrine**, on professional applications in the insurance domain. On the side, I build SaaS products and tools, always chasing clean architecture and pragmatic solutions.
 
-Here are some ideas to get you started:
+I'm a strong believer in **digital autonomy**: I self-host most of my stack, run my own homelab, and try to keep my digital life free from big-tech lock-in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of code, you'll find me in the garage doing my own motorcycle and car mechanics, improving my house, or digging into medieval history.
+
+🛠️ Always building something.
+
+---
+
+⚡ The lab is busy. Multiple projects in the works, more shipping soon. Follow along — you don't want to miss what's coming out of PetrosLab.
