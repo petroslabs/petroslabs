@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_compressed.png" alt="PetrosLab" width="200" />
+</p>
+
 Hi, I'm the developer behind **PetrosLab** — my personal lab where I experiment, build, and ship.
 
 By day I work as a backend developer, mostly with **Symfony, PHP and Doctrine**, on professional applications in the insurance domain. On the side, I build SaaS products and tools, always chasing clean architecture and pragmatic solutions.
