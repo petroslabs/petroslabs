@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo_compressed.png" alt="PetrosLab" width="200" />
-</p>
+![PetrosLabs](banner.png)
 
 Hi, I'm the developer behind **PetrosLabs** — my personal lab where I experiment, build, and ship.
 
